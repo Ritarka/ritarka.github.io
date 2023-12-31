@@ -1,4 +1,15 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ritarka Samanta'
-sectionPagesMenu = 'main'
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/Ritarka"
+  weight = 10
+
+[[menu.after]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/ritarka/"
+  weight = 20
