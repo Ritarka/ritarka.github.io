@@ -4,6 +4,13 @@ title = 'Ritarka Samanta'
 
 [menu]
 # [[menu.before]]
+
+[[menu.after]]
+  name = "Mail"
+  url = "mailto:ritarka.samanta@gmail.com"
+  weight = 5
+
+
 [[menu.after]]
   name = "Github"
   url = "https://github.com/Ritarka"
