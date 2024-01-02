@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ritarka Samanta'
+enableEmoji = true
 
 [menu]
 # [[menu.before]]

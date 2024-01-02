@@ -1,1 +1,1 @@
-A brief and non-exhaustive list of my experiences and skills.
+A brief and non-exhaustive list of my skills and expreriences.
