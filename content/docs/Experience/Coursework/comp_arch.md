@@ -1,5 +1,5 @@
 ---
-title: Computer Architecture
+title: "Computer Architecture"
 ---
 
 # Computer Architecture

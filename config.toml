@@ -2,7 +2,11 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ritarka Samanta'
 enableEmoji = true
-theme = 'hugo-book'
+theme = ["hugo-embed-pdf-shortcode", 'hugo-book']
+enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [menu]
 # [[menu.before]]
