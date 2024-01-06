@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 Title: "Tips"
-draft: false
+draft: true
 ---
 
 # Section

@@ -10,6 +10,6 @@ I used an Mbed, LCD screen, buttons, and gyroscope to create this embedded versi
 
 Not too difficult, and I especially enjoyed pushing the hardware to its limits while developing the software.
 
-Somehow I lost the video :thinking: but luckily a friend still had a picture.
+Somehow I lost the video :thinking: but luckily a friend still had a picture. You can find the code [here](https://github.com/Ritarka/Mberdle).
 
 ![mberdle](/mberdle.jpeg)
