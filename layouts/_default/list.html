@@ -5,8 +5,9 @@
             <h1>{{.Title}}</h1>
         </header>
         <div>
-        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
-        {{.Content}}
+        {{ $content := replaceRE "<a class=\"anchor\".*\">#</a>" "" .Content }}
+        {{ $content | safeHTML }}
+            
         </div>
     </article>
     <ul>

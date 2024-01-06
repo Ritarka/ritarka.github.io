@@ -1,5 +1,6 @@
 ---
 title: Cats
+weight: 4
 ---
 
 # Cats

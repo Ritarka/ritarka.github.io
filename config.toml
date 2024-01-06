@@ -9,7 +9,10 @@ enableInlineShortcodes = true
   unsafe = true
 
 [menu]
+
 # [[menu.before]]
+#  name = "Home"
+#  url = ""
 
 [[menu.after]]
   name = "Mail"
