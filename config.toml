@@ -6,15 +6,18 @@ title = 'Ritarka Samanta'
 enableEmoji = true
 theme = ["hugo-embed-pdf-shortcode", 'hugo-book']
 enableInlineShortcodes = true
+sectionPagesMenu = 'main'
 
 [markup.goldmark.renderer]
   unsafe = true
 
 [menu]
 
-# [[menu.before]]
-#  name = "Home"
-#  url = ""
+# [[menus]]
+#   name = 'Resume'
+#   pageRef = '/resume'
+#   weight = 20
+
 
 [[menu.after]]
   name = "Mail"
