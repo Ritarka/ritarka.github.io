@@ -2,13 +2,6 @@
 title: "Volatility Viewer"
 ---
 
-{{< hint info >}}
-**Markdown content**  
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
-stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
-{{< /hint >}}
-
-
 # Volatility Viewer
 
 This was created as part of a hackathon in late October 2022. This was my first foray into anything data-science and web app related, and I really enjoyed it.

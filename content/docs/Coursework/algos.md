@@ -2,13 +2,6 @@
 title: "Algorithms"
 ---
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-
 # Algorithms
 
 This included two classes, CS 1332 (Data Structures and Algorithms) and CS 3510 (Design and Analysis of Algorithms).

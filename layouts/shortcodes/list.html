@@ -1,0 +1,9 @@
+<div class="book-page">
+    <ul>
+        {{ range .Page.Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Title}}</a>
+            </li>
+        {{ end }}
+    </ul>
+</div>
