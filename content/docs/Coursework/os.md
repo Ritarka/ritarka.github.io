@@ -1,8 +1,8 @@
 ---
-title: Systems
+title: Operating Systems
 ---
 
-# Systems
+# Opearting Systems
 
 I took two courses on systems, CS 3210 (Operating Systems) and CS 4210 (Advanced Operating Systems). In the former we went deep into the design of operating systems, but in the latter we took a larger view and tackled computer systems in general.
 

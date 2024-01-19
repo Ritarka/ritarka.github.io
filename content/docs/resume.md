@@ -1,6 +1,7 @@
 ---
 title: Resume
 weight: 6
+type: resume
 ---
 
 # Resume

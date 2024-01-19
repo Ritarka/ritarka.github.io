@@ -1,12 +1,14 @@
 googleAnalytics = "G-4TKP0K59Z3"
 
-baseURL = 'http://example.org/'
+baseURL = 'https://ritarka.github.io/'
 languageCode = 'en-us'
 title = 'Ritarka Samanta'
 enableEmoji = true
 theme = ["hugo-embed-pdf-shortcode", 'hugo-book']
 enableInlineShortcodes = true
 sectionPagesMenu = 'main'
+enableGitInfo = true
+
 
 [markup.goldmark.renderer]
   unsafe = true

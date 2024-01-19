@@ -5,6 +5,7 @@
             <h1>{{.Title}}</h1>
         </header>
         <div>
+            <!-- {{ .Content }} -->
         {{ $content := replaceRE "<a class=\"anchor\".*\">#</a>" "" .Content }}
         {{ $content | safeHTML }}
             
