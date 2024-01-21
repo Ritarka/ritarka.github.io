@@ -23,7 +23,8 @@
       {{ partial "docs/inject/content-before" . }}
       
       {{ template "main" . }} <!-- Page Content -->
-      <p>Last updated on {{ .Lastmod | time.Format ":date_medium" }}</p>
+      <!-- <p>Last updated on {{ .Lastmod  | time.Format ":date_medium" }}</p> -->
+      <p>Last updated on {{ (os.Stat "/static/resume.pdf").ModTime | time.Format ":date_medium" }}</p>
       {{ partial "docs/inject/content-after" . }}
 
       <footer class="book-footer">
