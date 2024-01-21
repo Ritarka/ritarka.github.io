@@ -9,7 +9,7 @@ This included two classes, CS 1332 (Data Structures and Algorithms) and CS 3510 
 
 ## Data Structures and Algorithms
 
-This was quite an interesting class, and I learned about all the basic data structrures like *queues, stacks, heaps, AVLs, hash maps,* and more; along with common sorting and graph algorithms.
+This was quite an interesting class, and I learned about all the basic data structures like *queues, stacks, heaps, AVLs, hash maps,* and more; along with common sorting and graph algorithms.
 
 The class centered around learning about some concept and immediately implementing it as a homework in Java. The [csvistool](https://csvistool.com/) is absolutely amazing in helping visualize the concepts we learned and contains a good summary of all that I learned in the class.
 
