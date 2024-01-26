@@ -30,13 +30,6 @@ enableGitInfo = true
   unsafe = true
 
 [menu]
-
-# [[menus]]
-#   name = 'Resume'
-#   pageRef = '/resume'
-#   weight = 20
-
-
 [[menu.after]]
   name = "Mail"
   url = "mailto:ritarka.samanta@gmail.com"

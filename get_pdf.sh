@@ -1,1 +1,0 @@
-cp /mnt/c/Users/ritar/Documents/Resumes/Ritarka_Samanta_resume.pdf static/resume.pdf

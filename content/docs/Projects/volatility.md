@@ -8,6 +8,12 @@ This was created as part of a hackathon in late October 2022. This was my first 
 
 We created a web app that would attempt to explain or predict economic volatility (measured by the VIX) through indices such as the federal funds rate, S&P 500, and mortgage rates. I was involved in the story creation aspect. I simply gathered all sorts of data and tried to find strong relationships to volatility.
 
+{{< hint info >}}
+For the sake of brevity, I am only showing a few graphs here.  
+You can check out the full project at the [github](https://github.com/Ritarka/volatility_viewer)
+{{< /hint >}}
+
+
 ## Federal Funds Rate
 
 ![ffr](/ffr.png)
