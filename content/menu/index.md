@@ -18,9 +18,11 @@ headless: true
   - [ML Accelerator]({{< ref "/docs/Projects/ml_acc.md" >}})
   - [Volatility Viewer]({{< ref "/docs/Projects/volatility.md" >}})
 
-<!-- <br /> -->
+<!-- - [Interests] -->
 
-- [Cats]({{< ref "/docs/cats.md" >}})
+<br />
+
+<!-- - [Cats]({{< ref "/docs/cats.md" >}}) -->
 - [Resume]({{< ref "/docs/resume.md" >}})
 
 <!-- <br /> -->
