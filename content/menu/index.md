@@ -18,7 +18,7 @@ headless: true
   - [ML Accelerator]({{< ref "/docs/Projects/ml_acc.md" >}})
   - [Volatility Viewer]({{< ref "/docs/Projects/volatility.md" >}})
 
-<!-- - [Interests] -->
+- [Experience]({{< ref "/docs/experience.md" >}})
 
 <br />
 
