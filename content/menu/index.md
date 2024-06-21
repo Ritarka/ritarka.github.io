@@ -10,6 +10,7 @@ headless: true
   - [Computer Architecture]({{< ref "/docs/Coursework/comp_arch.md" >}})
   - [Embedded Systems]({{< ref "/docs/Coursework/embedded.md" >}})
   - [Operating Systems]({{< ref "/docs/Coursework/os.md" >}})
+  - [Machine Learning]({{< ref "/docs/Coursework/stat_ml.md" >}})
 
 <!-- <br /> -->
 

@@ -27,7 +27,9 @@
         "VLIW",
         "csvistool",
         "Cxnu",
-        "datasheet"
+        "datasheet",
+        "homoscedasticity",
+        "heteroscedstic"
     ],
     "flagWords": [
         "hte"
