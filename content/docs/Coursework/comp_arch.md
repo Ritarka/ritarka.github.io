@@ -26,4 +26,4 @@ As I moved onto the more advanced topics, I learned
 
 These courses were surprisingly hands on. The moment we covered something like a pipelined processor, I had to implement a 5-stage pipelined processor in Verilog along with a branch-predictor.
 
-For some of the more complex hardware designs like branch predictors, out-of-order processor, or caches, I did software emulation of desgins in C/C++. At the end, I would do a design space exploration of my design against various parameters like cache size, predictor size, etc, to find the optimal design against a set of benchmarks.
+For some of the more complex hardware designs like branch predictors, out-of-order processor, or caches, I did software emulation of designs in C/C++. At the end, I would do a design space exploration of my design against various parameters like cache size, predictor size, etc, to find the optimal design against a set of benchmarks.

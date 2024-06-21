@@ -30,7 +30,7 @@ This was a easy graph to analyze. You can see that VIX (black) rises whenever th
 
 ![spy_plot](/spy_plot.png)
 
-I eventually showed this relationship by creating a scatterplot of the monthly change in VIX vs SPY. There ends up being a moderate negative correlation between the two of -0.69. This means that when SPY goes up, VIX goes down, and vice versa. Again, not ground breaking, but combined with the federal funds rate analysis, one can see that can already be a bit complicated.
+I eventually showed this relationship by creating a scatter plot of the monthly change in VIX vs SPY. There ends up being a moderate negative correlation between the two of -0.69. This means that when SPY goes up, VIX goes down, and vice versa. Again, not ground breaking, but combined with the federal funds rate analysis, one can see that can already be a bit complicated.
 
 {{< youtube R7rCxnu68iU >}}
 

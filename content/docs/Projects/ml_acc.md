@@ -20,7 +20,7 @@ Eventually, as we started to create the parallel system for QDTrack. We ran into
 
 Eventually we only simulated certain portions of the algorithms and were able to demonstrate a significant speedup over the CPU implementation. Unfortunately we were not able to show an improvement over a GPU. We had simply run out of time by the end with the rest of our coursework. We needed to do more work in hardware design and experiment with different ways to pass in data to achieve greater speedup.
 
-At the end, we had a poster presentation with QDTrack running so passerbys could see how the algorithm puts bounding boxes around them in real-time.
+At the end, we had a poster presentation with QDTrack running so passersby could see how the algorithm puts bounding boxes around them in real-time.
 <!-- {{< embed-pdf url="/project_poster.pdf" hidePaginator="true" >}} -->
 
 ![ML Acc poster](/project_poster.jpg)

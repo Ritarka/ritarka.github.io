@@ -4,7 +4,7 @@ title: "Embedded Systems"
 
 # Embedded Systems
 
-I took a few courses on this topic, but never felt this to be too difficult. My experince in this has been limited to microcontrollers, breadboarded circuits, and the ocassional FPGA.
+I took a few courses on this topic, but never felt this to be too difficult. My experience in this has been limited to micro-controllers, breadboarded circuits, and the occasional FPGA.
 
 For this reason, things followed a pretty set pattern:
 1. Read the datasheet
