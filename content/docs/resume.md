@@ -2,8 +2,9 @@
 title: Resume
 weight: 6
 type: resume
+draft: true
 ---
-<!-- [Download file](/resume.pdf) -->
+
 # Resume
 
 {{< embed-pdf url="/resume.pdf" hidePaginator="true" >}}

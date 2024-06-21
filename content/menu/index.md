@@ -24,6 +24,3 @@ headless: true
 <br />
 
 <!-- - [Cats]({{< ref "/docs/cats.md" >}}) -->
-- [Resume]({{< ref "/docs/resume.md" >}})
-
-<!-- <br /> -->
