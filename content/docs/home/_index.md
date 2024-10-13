@@ -14,7 +14,7 @@ draft: false
 ## Hello!!
 I'm Ritarka (Rit-are-ka).
 
-I recently graduated with my Bachelor's from Georgia Tech.
+I am a first year Master's student at Carnegie Mellon studying Artificial Intelligence. 
 
 Here's how you can find out more about me:
 

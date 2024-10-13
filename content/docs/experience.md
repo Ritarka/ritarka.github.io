@@ -7,11 +7,11 @@ draft: false
 # Industry Experience
 
 {{< hint info >}}
-A lot of this is intentionally vague since I'd rather not post proprietary work publicly. If you'd like to know more about what I did, please reach out to me.
+A lot of this is intentionally vague since I'd rather not post proprietary work publicly. If you'd like to know more about what I did, please reach out
 {{< /hint >}}
 
 ## Keysight
-January 2024 - Present
+January 2024 - August 2024
 
 I started working here shortly after graduating with my Bachelor's in December 2023. Here I am developing driver code for high-performance oscilloscopes. This involves navigating the register set for the chip, and writing C++ code to interface with the hardware. A lot of my work so far has involved revamping the codebase architecture, as well as developing algorithms to efficiently calibrate the hardware.
 
