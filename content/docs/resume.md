@@ -2,7 +2,7 @@
 title: Resume
 weight: 6
 type: resume
-draft: true
+draft: false
 ---
 
 # Resume

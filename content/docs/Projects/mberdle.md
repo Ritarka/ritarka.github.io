@@ -4,7 +4,7 @@ title: "Embedded Wordle"
 
 # Embedded Wordle
 
-I did this project as part of my ECE 2035 [HW/SW Design Class]({{< relref "/docs/Coursework/embedded.md">}})
+I did this project as part of my ECE 2035 [HW/SW Design Class]({{< relref "/docs/Coursework/Undergraduate/embedded.md">}})
 
 I used an micro-controller, LCD screen, buttons, and gyroscope to create this embedded version of wordle. I even expanded the game to include a leaderboard, levels, and animations.
 

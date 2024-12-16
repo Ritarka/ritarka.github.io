@@ -1,9 +1,9 @@
 ---
 title: Cats
-weight: 4
+weight: 8
 ---
 
 # Cats
-Refresh to get a new image of a cat
+I like cats. Images courtesy of [TheCatAPI](https://thecatapi.com/)
 
 ![Cat Pic](https://thecatapi.com/api/images/get?format=src)
