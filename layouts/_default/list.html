@@ -22,13 +22,13 @@
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
 
-    <ul>
+    <!-- <ul>
         {{ range .Pages }}
             <li>
                 <a href="{{.Permalink}}">{{.Title}}</a>
             </li>
         {{ end }}
-    </ul>
+    </ul> -->
 
       {{ partial "docs/inject/content-after" . }}
 
