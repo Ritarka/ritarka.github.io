@@ -21,6 +21,14 @@ To tackle this problem, we tried three different approaches.
 - Generative Adversarial Network
 - Convolutional Neural Network
 
+Using mIOU as a metric, we showed that DCP performed the best, but took anywhere from 2-20 seconds per image. I worked on the GAN which was the fastest, but had the least mIOU. We were able to show that the CNN had the ideal balance between accuracy and speed, performing almost as well as DCP, but also taking under a second.
+
+I based my GAN architecture on ID-CGAN, an existing work that worked to remove rain and mist from urban environments. I think given the lack of contrastive shapes in blurry offroad data (as compared to a city), it was harder for my GAN to perform nearly as well compared to ID-CGAN. I also think I made a subset of my data a bit too blurry. Maybe a better approach would have been to first train it on slightly blurry images, extend the network, and then fine-tune it on more blurry images. 
+
+Certainly a more complex architecture could have been used since my GAN could process about 6 images in a second running an a CPU.
+
+## Summary
+
 I have attached the slides, final report paper, and presentation video.
 For a quick summary, I would check out the slides. For an in-depth explanation, please refer to the video.
 
