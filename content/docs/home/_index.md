@@ -11,14 +11,17 @@ draft: false
 
 <--->
 
-## Hello!!
+## Hey!
 I'm Ritarka (Rit-are-ka).
 
-I am a first year Master's student at Carnegie Mellon studying Artificial Intelligence. 
+I am a first year Master's student at Carnegie Mellon studying Artificial Intelligence.
 
-Here's how you can find out more about me:
+I'm interested in a lot of things and don't quite know what I want to do for a career. I have had a good bit of experience working with embedded systems, computer architecture, and firmware. I liked that, but am always looking to experiment and try out new things.
 
-- [Coursework]({{< relref "/docs/Coursework/_index.md">}})
-- [Projects]({{< relref "/docs/Projects/_index.md">}})
+I primarily use C/C++ and Python.
+
+Favorite Data Structure: Hash Map  
+Favorite Algorithm: LSD Radix Sort
+
 
 {{< /columns >}}
