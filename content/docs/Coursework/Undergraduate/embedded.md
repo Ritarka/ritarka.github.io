@@ -18,4 +18,4 @@ This was also my first foray into understanding the hardware-software interface.
 
 I mostly worked with RISC and MIPS architecture assembly code. The difficulty comes from the fact that operations take many more lines of code and it is a bit harder to visualize complicated programs. It was a bit of pain to write, but a few hundred lines later, I became fairly fluent. &#x1FAE0;
 
-My first embedded project was a simple LED clock using an arduino nano. Later I worked on a [wordle game]({{< relref "/docs/Projects/mberdle.md">}}), an LED strip controller, and many more.
+My first embedded project was a simple LED clock using an arduino nano. Later I worked on a [wordle game]({{< relref "/projects/mberdle.md">}}), an LED strip controller, and many more.
