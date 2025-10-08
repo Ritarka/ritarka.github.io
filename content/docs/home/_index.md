@@ -14,6 +14,6 @@ draft: false
 ## Hey!
 I'm Ritarka (Rit-are-ka).
 
-I am a first year Master's student at Carnegie Mellon graduating December 2025
+I am a second year Master's student at Carnegie Mellon graduating December 2025
 
 {{< /columns >}}
